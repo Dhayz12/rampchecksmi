@@ -1,0 +1,121 @@
+{
+  "app": "RAMPCHECK",
+  "type": "theme",
+  "version": "1.1",
+  "exportedAt": "2026-11-28T10:05:16.312Z",
+  "settings": {
+    "splash": {
+      "title": "SIRAM (Sistem Inspeksi Rampcheck) ",
+      "subtitle": "By. Samudra Tech",
+      "tagline": "Pendataan dan pemeriksaan kelaikan kendaraan angkutan umum secara digital, cepat, dan terintegrasi.",
+      "bg": "#081a3a",
+      "duration": 2600
+    },
+    "login": {
+      "title": "Selamat Datang",
+      "subtitle": "Masuk untuk memulai inspeksi kelaikan kendaraan angkutan umum.",
+      "accent": "#ffffff"
+    },
+    "dashboard": {
+      "title": "Sistem Inspeksi Rampcheck",
+      "subtitle": "Terminal Tipe A K. H Ahmad Sanusi Sukabumi",
+      "headerColor": "#eef4ff",
+      "heroColor": "#0e2a5e",
+      "greeting": "Inspeksi kendaraan angkutan umum Terminal Tipe A K.H Ahmad Sanusi Sukabumi",
+      "fontScale": 110,
+      "vehicleFontScale": 125
+    },
+    "marquee": {
+      "text": "Selamat datang di Inspeksi Digital Rampcheck • Pastikan kelengkapan KIR, STNK, dan KP sebelum kendaraan beroperasi • Utamakan keselamatan angkutan umum • Satpel Terminal Tipe A Sukabumi",
+      "textColor": "#ffffff",
+      "bgColor": "#3355d1",
+      "speed": 22
+    },
+    "infobox": {
+      "text": "Petugas wajib menghapus riwayat inspeksi jika sudah selesai semua scan data kendaraan, agar data tidak tertumpuk. (menu cetak - scroll ke bawah cari riwayat inspeksi dan hapus) ",
+      "textColor": "#173a7a",
+      "bgColor": "#dce8ff",
+      "icon": "fa-circle-info"
+    },
+    "app": {
+      "dark": false,
+      "fontScale": 120,
+      "fontFamily": "Inter",
+      "accent": "#0c4a6e",
+      "accent2": "#0ea5e9",
+      "logoPerhubungan": "",
+      "logoHubdat": "",
+      "profilePhoto": "",
+      "autoLoadServer": true
+    },
+    "profile": {
+      "name": "Yudha Samudra, A.M.d.",
+      "nip": "198508122025211024",
+      "status": "PPPK (Golongan VII) ",
+      "jabatan": "Pengelola Layanan Operasional",
+      "instansi": "Satpel Terminal Tipe A K.H  Ahmad Sanusi Sukabumi",
+      "aplikasi": "SIRAM (Sistem Inspeksi Rampcheck) ",
+      "versi": "1.1.0",
+      "developer": "Samudra Tech",
+      "foto": ""
+    },
+    "station": {
+      "terminal": "SATPEL TERMINAL TIPE A SUKABUMI",
+      "regu": "A"
+    },
+    "reminder": {
+      "enabled": true,
+      "autoDelete": true,
+      "time1": "07:30",
+      "time2": "19:30",
+      "graceMinutes": 20,
+      "windowMinutes": 60,
+      "title": "Pengingat Laporan Rampcheck",
+      "message": "Petugas Rampcheck harap segera membuat laporan."
+    },
+    "nav": {
+      "home": "HOME",
+      "scan": "SCAN",
+      "reports": "CETAK",
+      "profile": "PROFILE",
+      "order": [
+        "home",
+        "scan",
+        "reports",
+        "profile"
+      ],
+      "icons": {
+        "home": "fa-house",
+        "scan": "fa-qrcode",
+        "reports": "fa-print",
+        "profile": "fa-user"
+      },
+      "glass": 100,
+      "color": "#3355d1"
+    }
+  },
+  "navigation": {
+    "labels": {
+      "home": "HOME",
+      "scan": "SCAN",
+      "reports": "CETAK",
+      "profile": "PROFILE",
+      "order": [
+        "home",
+        "scan",
+        "reports",
+        "profile"
+      ],
+      "icons": {
+        "home": "fa-house",
+        "scan": "fa-qrcode",
+        "reports": "fa-print",
+        "profile": "fa-user"
+      },
+      "glass": 100,
+      "color": "#3355d1"
+    },
+    "style": "liquid-glass",
+    "activeAccent": "#0c4a6e"
+  }
+}
